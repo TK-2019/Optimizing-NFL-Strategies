@@ -23,7 +23,7 @@ Several self-engineered features were created for analysis and prediction:
 3. Last Catch Yardage: Distance covered after a catch until a tackle or other event.
 4. Pass Outcome: Derived from play data to indicate success (1) or failure (0) based on specific criteria.
 
-The code and the outputs are uploaded in the features folder.
+The code outputs is uploaded in features.py.
 
 ## 2. Pass Outcome Prediction - 
 1. Using Logistic Regression
@@ -36,8 +36,6 @@ The code is uploaded in models folder.
 2. Impact of Catch Separation: Greater separation increases the likelihood of successful passes.
 3. Offense Formation Analysis: Radar charts highlight formations with higher success rates.
 
-The code for same is uploaded in insights folder.
-
-The full project report is also uploaded for reference.
+The code for same is uploaded in insights.py.
 
 
